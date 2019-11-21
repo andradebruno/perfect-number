@@ -22,6 +22,6 @@ A RESTful application provides two REST services to check if a given number is p
 - ``./gradlew build``
 - ``./gradlew bootRun``
 	
-####Open a browser and go to:
+#### Open a browser and go to:
 
 - [Swagger](http://localhost:8081/swagger-ui.html#/)
